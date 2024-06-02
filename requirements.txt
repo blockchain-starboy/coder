@@ -1,0 +1,9 @@
+flask
+flask-cors
+solana
+pymongo
+qrcode[pil]
+python-dotenv
+os
+pillow
+solders
